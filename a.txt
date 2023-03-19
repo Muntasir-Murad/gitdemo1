@@ -1,9 +1,7 @@
 chona
 muri
 tuntuni
-<<<<<<< HEAD
 tuntunaaaaa
 pakhi
-=======
 tuntui2
->>>>>>> main
+
