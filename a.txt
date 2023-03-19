@@ -1,5 +1,0 @@
-Clean text
-line2
-line3 aded in cmd
-Last line added
-line 4 added
